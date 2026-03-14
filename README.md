@@ -17,4 +17,4 @@ This project analyzes employee attrition using Power BI.
 - Excel Dataset
 
 ## Dashboard Preview
-<img src="">
+<img src="dashboard.png.png">
